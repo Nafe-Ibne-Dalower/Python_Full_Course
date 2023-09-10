@@ -1,0 +1,5 @@
+BMI
+BMR
+random password generator
+random ques selector
+Time greeter
